@@ -2,6 +2,10 @@
 
 Welcome to my portfolio website! This project showcases my skills, experience, and projects as a web developer. The website is built using HTML, CSS, JavaScript, and the SASS library to provide a clean, responsive, and interactive user experience.
 
+## Preview
+[Watch the project oveview](https://github.com/tokhy1/SASS_Portfolio/assets/140895791/4b50ec3c-3c66-4425-8513-7fe571c503ea)
+
+
 ## Features
 
 - **Responsive Design**: The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
