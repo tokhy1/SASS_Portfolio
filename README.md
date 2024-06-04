@@ -36,7 +36,7 @@ To get a copy of the project up and running on your local machine for developmen
 
 1. Clone the repository: `git clone https://github.com/tokhy1/SASS_Portfolio.git`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm run compile-sass`
+3. Compile sass code: `npm run compile-sass`
 
 
 ## Contributing:
